@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: {{ include "getLBSubnet" . }}
+  name: {{ .Values.service_lb }}
   labels:
     {{- include "test.labels" . | nindent 4 }}
 spec:

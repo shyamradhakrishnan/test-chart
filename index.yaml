@@ -3,12 +3,12 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-02T06:05:07.880889813Z"
+    created: "2023-08-02T08:30:56.615979719Z"
     description: A Helm chart for Kubernetes
-    digest: 8058e02fa66a22444ba795a32eee69f84ce204cd6eccb1ee6600e9bda3a71349
+    digest: 57e4eda935cc8cd81f5073969722b94729e532ee9040ca9b69dffff0eb361ba8
     name: test
     type: application
     urls:
     - https://shyamradhakrishnan.github.io/test-chart/test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-02T06:05:07.880433038Z"
+generated: "2023-08-02T08:30:56.615489642Z"
